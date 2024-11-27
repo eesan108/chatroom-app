@@ -1,7 +1,9 @@
 # Chatroom app
 ## Portfolio showcase
+---
 
 **Frontend: React.js**
+
 **Backend: Firebase**
 
 ### Highlights I have learned in this project: 
